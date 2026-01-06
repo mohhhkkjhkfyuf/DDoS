@@ -1,38 +1,71 @@
-# DOS_ATTACK (Educational Network Stress Test)
+# ⚡ Advanced DDoS Stress Testing Tool
+### Kali Linux & Arch Linux Edition
 
-⚠️ **Disclaimer**
-This project is for **educational and testing purposes only**.
-It is intended to demonstrate how threading and HTTP requests work in Python.
-Do **NOT** use this tool against any system, server, or network that you do not own
-or have explicit permission to test.
+⚠️ **STRICTLY FOR EDUCATIONAL & AUTHORIZED TESTING ONLY**
 
-The author is **not responsible** for any misuse.
-
----
-
-## 📌 Description
-
-This project is a simple Python-based **network load / stress testing script**
-designed to help learners understand:
-
-- Python threading
-- HTTP requests
-- User input handling
-- Performance testing concepts
+A high-quality **Python-based stress testing framework** designed specifically
+for **Kali Linux** and **Arch Linux** users who want to understand
+network load behavior, request flooding concepts, and basic stress-testing logic
+in a controlled and legal environment.
 
 ---
 
-## 🧰 Requirements
+## 🧠 About The Project
+This tool was built as an **educational cybersecurity project** to demonstrate:
+- How HTTP request flooding works internally
+- How servers respond under heavy load
+- How stress-testing tools are structured in Python
+- Linux-based workflow for security research
 
-- Python 3.8+
-- pip
+This is **NOT a plug-and-play attack tool**.  
+It is a **learning-focused project**.
 
 ---
 
-## 📦 Installation
+## 🎯 Target Audience
+- Cybersecurity students
+- Ethical hacking learners
+- Python developers
+- Kali Linux users
+- Arch Linux power users
+- Network & system security researchers
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/mohhhkkjhkfyuf/DOS_ATTACK.git
-cd DOS_ATTACK
-python3 DOS_ATTACK_CRAX.KING.py  
+---
+
+## ✨ Core Features
+- Clean and readable Python codebase
+- Fast execution on Linux systems
+- Lightweight & minimal dependencies
+- Designed for terminal usage
+- Easy to extend and customize
+- Educational-first architecture
+
+---
+
+## 🧰 Technology Stack
+- Python 3
+- HTTP Networking
+- Linux-based execution model
+
+---
+
+## 🖥 Supported Operating Systems
+✅ Kali Linux  
+✅ Arch Linux  
+
+❌ Other systems are not officially supported.
+
+---
+
+## 📦 Requirements
+sudo apt update 
+
+sudo apt install git
+
+git clone https://github.com/mohhhkkjhkfyuf/DDoS.git
+
+cd DOS_ATTACK_CRAX.KING.py
+
+python3 DOS_ATTACK_CRAX.KING.py
+
+---
