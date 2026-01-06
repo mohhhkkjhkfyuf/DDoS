@@ -64,8 +64,8 @@ sudo apt install git
 
 git clone https://github.com/mohhhkkjhkfyuf/DDoS.git
 
-cd DOS_ATTACK_CRAX.KING.py
+cd DDoS
 
-python3 DOS_ATTACK_CRAX.KING.py
+
 
 ---
