@@ -66,6 +66,8 @@ git clone https://github.com/mohhhkkjhkfyuf/DDoS.git
 
 cd DDoS
 
+python3 DOS_ATTACK_CRAX.KING.py
+
 
 
 ---
